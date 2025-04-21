@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 🔹 Junior Data Analyst passionate about uncovering stories behind the data  
-🔹 Currently studying Computer Science in Latvia & Ukraine through Erasmus+  
+🔹 Currently studying Computer Science
 🔹 Strong analytical mindset with hands-on projects in Python, SQL, and Excel 
 🔹 Eager to grow in real-world data challenges and team collaborations
 
