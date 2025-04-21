@@ -1,14 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Serhii Havrylov</h1>
+<h3 align="center">Junior Data Analyst | Python Enthusiast | Erasmus+ Exchange Student</h3>
 
-**Havrylov-Serhii/Havrylov-Serhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on pet-projects
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with learning
-- 💬 Ask me about myself
-- 📫 How to reach me: telegram, linkedin
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: can shake my eyes
+🔹 Junior Data Analyst passionate about uncovering stories behind the data  
+🔹 Currently studying Computer Science in Latvia & Ukraine through Erasmus+  
+🔹 Strong analytical mindset with hands-on projects in Python, SQL, and ML  
+🔹 Eager to grow in real-world data challenges and team collaborations
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+🛏️ **[Sleep Disorder Predictor](https://github.com/Havrylov-Serhii/sleep-disorder-project)**  
+📍 ML model deployed with FastAPI & Docker  
+🔧 `Pandas`, `Scikit-learn`, `FastAPI`, `Pydantic`, `Docker`  
+📊 End-to-end pipeline: Data cleaning → Feature Engineering → Hyperparameter Tuning → API deployment
+
+🎬 **[IMDb Top 1000 Analysis](https://github.com/Havrylov-Serhii/imdb-analysis)**  
+📍 Exploratory data analysis of top-rated films  
+📊 Strong use of visualizations and data wrangling with `Matplotlib` and `Seaborn`
+
+🎧 **[Spotify User Behavior](https://github.com/Havrylov-Serhii/spotify-data-analysis)**  
+📍 Insights into listening habits and behavior trends  
+🔧 Cleaned and analyzed time-based user logs
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=havrylov-serhii&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=havrylov-serhii" />
+</p>
+
+---
+
+### 🌐 Contacts
+
+- 📧 Email: havrylov.serhii.a@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/serhii-havrylov)  
