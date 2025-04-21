@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhii Havrylov</h1>
-<h3 align="center">Junior Data Analyst | Python Enthusiast | Erasmus+ Exchange Student</h3>
+<h3 align="center">Junior Data Analyst | Python Enthusiast </h3>
 
 ---
 
@@ -7,18 +7,19 @@
 
 🔹 Junior Data Analyst passionate about uncovering stories behind the data  
 🔹 Currently studying Computer Science in Latvia & Ukraine through Erasmus+  
-🔹 Strong analytical mindset with hands-on projects in Python, SQL, and ML  
+🔹 Strong analytical mindset with hands-on projects in Python, SQL, and Excel 
 🔹 Eager to grow in real-world data challenges and team collaborations
 
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 
 ---
 
