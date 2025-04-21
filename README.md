@@ -5,10 +5,10 @@
 
 ### 🧠 About Me
 
-🔹 Junior Data Analyst passionate about uncovering stories behind the data
-🔹 Currently studying Computer Science
-🔹 Strong analytical mindset with hands-on projects in Python, SQL, and Excel 
-🔹 Eager to grow in real-world data challenges and team collaborations
+<h4>🔹 Junior Data Analyst passionate about uncovering stories behind the data </h4>
+<h4>🔹 Currently studying Computer Science</h4>
+<h4>🔹 Strong analytical mindset with hands-on projects in Python, SQL, and Excel </h4>
+<h4>🔹 Eager to grow in real-world data challenges and team collaborations</h4>
 
 ---
 
