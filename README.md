@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Serhii Havrylov</h1>
-<h3 align="center">Junior Data Analyst | Python Enthusiast </h3>
+<h3 align="center">Data Analyst | SQL | Product Analytics </h3>
 
 ---
 
 ### 🧠 About Me
 
-<h4>🔹 Junior Data Analyst passionate about uncovering stories behind the data </h4>
-<h4>🔹 Currently studying Computer Science</h4>
+<h4>🔹 Data Analyst passionate about uncovering stories behind the data </h4>
+<h4>🔹 Have knowledge of Product Analytics</h4>
 <h4>🔹 Strong analytical mindset with hands-on projects in Python, SQL, and Excel </h4>
 <h4>🔹 Eager to grow in real-world data challenges and team collaborations</h4>
 
